@@ -1,0 +1,17 @@
+.header{
+    border-bottom: 1px solid white;
+    position: sticky;
+}
+
+.header img{
+    width: 60px;
+    height: 60px;
+}
+
+.header p{
+    color:white;
+    font-size: 37px;
+    position: absolute;
+    top: -28px;
+    left: 60px;
+}

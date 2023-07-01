@@ -1,0 +1,36 @@
+.list{
+    position: relative;
+    border:3px solid green;
+    margin-left: 2%;
+    margin-right:2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 10%;
+}
+
+.list p{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.overall{
+    position: relative;
+    border: 4px solid green;
+    margin-top: 30%;
+    border-radius: 10%;
+}
+.list button{
+    position: absolute;
+    background-color: green;
+    font-size: 30px;
+    width: 180px;
+    height: 60px;
+    color: aliceblue;
+    top: 0px;
+    left: 1200px;
+}
+.item{
+    position: relative;
+    border-bottom: 2px solid white;
+    padding-bottom: 2%;
+}
